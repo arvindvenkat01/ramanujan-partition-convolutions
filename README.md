@@ -2,9 +2,9 @@
 
 This repository contains the computational verification and complete code for the paper "Asymptotic Analysis of Partition Convolutions Arising from Ramanujan's Congruences."
 
-**Pre-print (Zenodo):** [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
-* **DOI** - 10.5281/zenodo.XXXX
-* **URL** - https://doi.org/10.5281/zenodo.XXXX
+**Pre-print (Zenodo):** [https://doi.org/10.5281/zenodo.17245660](https://doi.org/10.5281/zenodo.17245660)
+* **DOI** - 10.5281/zenodo.17245660
+* **URL** - https://doi.org/10.5281/zenodo.17245660
 
 ## Abstract
 
@@ -124,13 +124,16 @@ Variant 11: c_9509 has 369 digits, ratio ≈ 10^(-5355)
 
 If you use this work, please cite the paper using the Zenodo archive.
 
-@misc{naladiga2025partition,
-  author = {Naladiga Venkat, Arvind},
-  title = {Asymptotic Analysis of Partition Convolutions Arising from Ramanujan's Congruences},
-  year = {2025},
-  publisher = {Zenodo},
-  doi = {10.5281/zenodo.XXXXXXX},
-  url = {https://doi.org/10.5281/zenodo.XXXXXXX}
+@misc{naladiga_venkat_2025_17245660,
+  author       = {Naladiga Venkat, Arvind},
+  title        = {Asymptotic Analysis of Partition Convolutions
+                   Arising from Ramanujan's Congruences
+                  },
+  month        = oct,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17245660},
+  url          = {https://doi.org/10.5281/zenodo.17245660},
 }
 
 ---
@@ -139,7 +142,7 @@ If you use this work, please cite the paper using the Zenodo archive.
 
 The content of this repository is dual-licensed:
 
-- **MIT License** for `analyze_partitions.py` See the [LICENSE](LICENSE) file for details.
+- **MIT License** for all python scripts. See the [LICENSE](LICENSE) file for details.
 - **CC BY 4.0** (Creative Commons Attribution 4.0 International) for all other content (results.txt, README, etc.)
 
 
