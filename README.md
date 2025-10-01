@@ -21,11 +21,13 @@ c_k^(m) = Σ [p(mj+a_m)/m] · p(k-j) constructed using Ramanujan's classical con
 
 ## Repository Contents
 
--   `partition_convolution_analysis.py`: The core Python script to run the computation and analysis.
--   `analysis_results.py`: Post-processing and plotting after running the python script above.
--   `README.md`: This documentation file.
--   `requirements.txt`: A list of the Python dependencies required to run the script.
--   `LICENSE`: The MIT License file for the project.
+- **`code/partition_convolution_main.py`** - Main computation script for partition convolutions
+- **`code/analyze_results.py`** - Statistical analysis and summary of results
+- **`code/plot_residuals.py`** - Generate residual verification plot
+- **`data/*.csv`** - Pre-computed results from running the main script
+- **`figures/residuals_verification.pdf`** - Verification plot for -5/4 ln(k) coefficient
+- **`requirements.txt`** - Python package dependencies
+- **`LICENSE`** - MIT License
 
 
 ## Requirements
